@@ -2,7 +2,7 @@
 도메인 레이어는 UI 레이어와 데이터 레이어 사이에 있는 **선택적 레이어**입니다.
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/48902047/150910648-247c470f-c5ca-48e8-881e-885b1b296e43.png">
+<img src = "https://user-images.githubusercontent.com/48902047/150910648-247c470f-c5ca-48e8-881e-885b1b296e43.png" width="50%" height="50%">
 </div>
 
 도메인 레이어는 복잡한 비즈니스 로직이나 여러 ViewModel에서 **재사용되는 간단한 비즈니스 로직의 캡슐화**를 담당합니다. 모든 앱에 이러한 요구사항이 있는 것은 아니므로 이 레이어는 선택사항입니다. 따라서 복잡성을 처리하거나 재사용성을 선호하는 등 필요한 경우에만 도메인 레이어를 사용해야 합니다.
@@ -47,7 +47,7 @@ class GetLatestNewsWithAuthorsUseCase(
 ```
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/48902047/150912103-142a43a3-59b1-492a-a5eb-dc4f8c74ccca.png">
+<img src = "https://user-images.githubusercontent.com/48902047/150912103-142a43a3-59b1-492a-a5eb-dc4f8c74ccca.png" width="50%" height="50%">
 </div>
 
 
